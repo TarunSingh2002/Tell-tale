@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Golden color stroke -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFD700" />
+    <!-- Round corners -->
+    <corners
+        android:radius="3dp" /> <!-- Adjust the radius as per your preference -->
+</shape>
