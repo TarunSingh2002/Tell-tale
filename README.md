@@ -35,53 +35,28 @@ The Tell Tale App is a native application designed to provide customizable and e
  </p>
 
 
-## Registration
+## Features
 
-To get started with Aahar, you need to register by providing the following information:
+- Genre Selection: Choose from various genres including action, horror, comedy, and fairy tale to tailor the story to your child's preferences.
+- Customizable Length: Select the desired length of the story ranging from 150 to 500 words to fit your bedtime routine.
+- Language Options: Enjoy stories in multiple languages such as German, French, Japanese, Russian, Arabic, Spanish, and more, catering to a diverse audience.
+- Gender and Age Personalization: Customize the story based on your child's gender (male, female, or other) and age (1-15 years) to create a personalized storytelling experience.
 
-- Email: Your email address will be used for account verification and communication purposes.
-- Password: Choose a secure password to protect your account.
-- Name: Your name will be displayed to other users when you make a food donation.
-- Phone Number: A contact number is required for communication between donators and receivers.
+## How to Use
 
-## Email Verification
+- Genre Selection: Upon launching the app, choose the desired genre for the bedtime story.
+- Length Customization: Select the preferred length of the story according to your bedtime routine.
+- Language Preference: Pick the language in which you want the story to be generated.
+- Gender and Age Selection: Customize the story further by specifying the gender and age of your child.
+- Generate Story:Sit back and let the app create a unique and personalized bedtime story for your child.
 
-After registering, you will receive an email verification link. Click on the link to verify your email address and activate your Aahar account.
+## Acknowledgments
 
-## Donating Food
+- This app was made possible by the ChatGPT API.
 
-#### Donate Activity
+## Contribution
 
-In the "Donate" section of the app, you can easily pin your location on the map to indicate the availability of food donations. The following information is required when creating a food pin:
-
-- Food Item Name: Specify the name of the food item you wish to donate.
-- Food Item Description: Provide a brief description or additional details about the donated food.
-- Phone Number Visibility: Choose whether or not you want to display your phone number to receivers.
-
-Note: Aahar does not have an in-app messaging feature. If you choose to display your phone number, it will only be visible to receivers.
-
-#### Food Map Activity
-
-In the "Food Map" activity, User can view all available food pins. They can explore the map and click on a food pin to see details about the donation. However, the phone number of the donator will not be displayed in this activity. It is only visible in the "Receiver" activity.
-
-## Receiving Food
-
-In the "Receiver" activity, users can find food pins near their location. By clicking on a specific food pin, they can access detailed information about the donation. Moreover, receivers have the option to navigate to the donator's residence using the Google Maps. This feature helps receivers easily collect the donated food.
-
-Once the receiver has collected the food, the donator can remove their pin from the food map.
-
-## History Activity
-
-The "History" activity in Aahar keeps track of all your past food donations. It displays a list of your previous donations, including the food item name and description. You have the ability to delete individual donation records unless you delete your profile entirely.
-
-## Additional Features
-
-Aahar provides the following additional features to enhance your experience:
-
-- Reset Password: In case you forget your password, you can reset it by following the password recovery process.
-- Change Email: If you wish to update your email address, you can do so through the app's settings.
-- Update Name and Phone Number: You have the flexibility to modify your name and phone number as needed.
-- Profile Picture: Aahar allows you to upload and set a profile picture.
+Contributions are welcome! If you have any ideas for improvement or would like to add new features, feel free to submit a pull request or open an issue on GitHub.
 
 ## Feedback and Support
 
