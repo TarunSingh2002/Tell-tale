@@ -8,15 +8,15 @@ The Tell Tale App is a native application designed to provide customizable and e
 <table>
   <tr>
     <td>Splash Screen</td>
-    <td>Register Screen</td>
-    <td>Login Screen</td>
-    <td>Dashboard Screen</td>
+    <td>Home Screen</td>
+    <td>Loading Screen</td>
+    <td>Generated Story Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/ec9d3b10-ddd6-4c9e-8f8b-fdda547fc021" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/ed606fde-606c-423a-a445-44da1ec684f9" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/e5670d0b-730d-4e26-9d47-07f8dc756966" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/a13831cd-10f4-4660-93c5-fdcdc25ba0cb" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tell-tale/assets/133011792/8a565692-05df-48d8-acf9-4132bc73977a" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tell-tale/assets/133011792/5206225c-b5e7-4bc3-ab33-2777798eff11" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tell-tale/assets/133011792/a7650835-5ffe-4ea6-9b91-8d6a92634f5b" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tell-tale/assets/133011792/22e5faf1-3a19-418f-9fe5-ac35247612c3" width="220"></td>
   </tr>
  </table>
  </p>
