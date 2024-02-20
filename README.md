@@ -60,7 +60,7 @@ Contributions are welcome! If you have any ideas for improvement or would like t
 
 ## Feedback and Support
 
-We value your feedback and suggestions for improving the Aahar app. If you encounter any issues or have any queries, please contact our support team at [tarun.utkarsh125@gmail.com]. We are committed to providing the best possible experience and supporting you in making a positive impact through food donation.
+We value your feedback and suggestions for improving the Tell Tale app. If you encounter any issues or have any queries, please contact our support team at [tarun.utkarsh125@gmail.com]. We are committed to providing the best possible experience and supporting you in making a positive impact through food donation.
 
 
 
