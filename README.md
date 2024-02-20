@@ -29,7 +29,7 @@ The Tell Tale App is a native application designed to provide customizable and e
     <td>Register User</td>
   </tr>
   <tr>
-    <td><video src="https://github.com/TarunSingh2002/Tell-tale/assets/133011792/6284bee7-40bb-4e55-b87f-6ce1d4220bce"></video></td>
+    <td><video src="https://github.com/TarunSingh2002/Tell-tale/assets/133011792/6284bee7-40bb-4e55-b87f-6ce1d4220bce" width="220" height="220"></video></td>
   </tr>
  </table>
  </p>
